@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":7,"characterName":"feschar_big_003","classId":5,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"fes_Package_014","traits":[],"initialLevel":1,"maxLevel":99,"name":"Bare Thrillz","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":2,"characterName":"feschar_big_048","classId":2,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Wrathiel","traits":[],"initialLevel":1,"maxLevel":99,"name":"Wrathiel","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":1,"characterName":"feschar_big_008","classId":3,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"Magnus","traits":[],"initialLevel":1,"maxLevel":99,"name":"Magnus","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":6,"characterName":"feschar_big_007","classId":1,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"Vindicta","traits":[],"initialLevel":1,"maxLevel":99,"name":"Vindicta","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":4,"characterName":"feschar_big_036","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Skwirt","traits":[],"initialLevel":1,"maxLevel":99,"name":"Skwirt","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"feschar_big_042","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Goblin","traits":[],"initialLevel":1,"maxLevel":99,"name":"Goblin","nickname":"","note":"","profile":""}
+]
